@@ -1,4 +1,4 @@
-# BUILD.md
+<b># BUILD.md</b>
 
 The Mac build may need attention. If you are interested in helping us
 test that the build completes and the game runs, please post or
